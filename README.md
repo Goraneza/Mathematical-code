@@ -1,4 +1,4 @@
-Principia
+Mathematical code
 =========
 
-An integrated software solution for mathematical research
+Code for mathematical research and teching
